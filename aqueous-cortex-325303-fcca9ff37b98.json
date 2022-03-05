@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "aqueous-cortex-325303",
+  "private_key_id": "fcca9ff37b98570af416faba91e14c2e95913db4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDPw/NnG9YUOKe2\nXe63e0dRevEjd/+wKeuzEH2RTdF68M1PPAN2asSCXy/9P31PlEjli6SCTJy1Nhr/\n15NxwPbecE7881+9KxJHmHLbOoCA8BFstC+K/4btHin6BKblPLCgPwXENKGuqfWF\nPphAqJqClUMNbkpjEPaE+Uj9PBgUcm0xF1ROFMqml4/Z9Y1PB1DNY/7+YfZKUEfS\ng0bCae8n8BSZON1tm0rQjKuEyAJKGvfynsQJAcDeGpsNCvs7MOUivqRdob3opJeb\ndhihRUYmnK+XqB6xUV/vbzuSFuIFRuHJDPuDKN4+qGM8+Hkg31czBRjOsydfw9KT\nhAFZk0kVAgMBAAECggEAJS9TdX1Qa+8V6ThXnMQ2J/mihfAYtZ1TH4nQh3yPhPrr\nLAa4Me36/MBvlNpTobYO8/Jxv5ZZp78mxup866uXI4mjQXeHh5JZY7H/wIfwbuNI\noxV+uthv/CldZu+FNVsO26db71liJKIrnKzu0Ae9G6j+Rr2aF6/2ByecriIexy2+\n3bRLjiKaO19L+CRE67pw/+BmKfNxcDLcKNwyb5kz8tFqRdFpvg4TwqgVRX+R/huz\neRbDNM9pc5gtQgehs396LaYGzvD63uc4uviQgai0SFz2GQfhYXvFUqYPVPpmsqpZ\nS3FAmwkwAsQKcMugLnWjiBYF2DPXmLENPFbLsd6SsQKBgQD4y9KpawYAQjnF2iWo\n4uchf3hStGSGXoYRujHR3MOVYMqTNi37CjWz7h7xMog0EbkxLHHdJ1Em2PYnzEee\n7cKkai+NAiX0Yxa6iATSvYf6EI8Qj7s3MknhjTz5VVwPKmItaoU/8jC8Aue3ZryW\nO30WQ+WTk30XQqV1ThClgjVnPQKBgQDVx/3T64iRXPH0ImZl9KVj/qGmzaCEshaR\n/FSSOU2ebdGH0fzIqvdJzaS34ATd0koxQ7AIZ1hxiLPbTPdEW3XgfYnxAASt/dpv\nTSRk0nXJsHkOooaGD2DqjTSmJxW7r5+pO2Py8+AMaLvEVt7xl/DLgk0J5Du1jIMD\nazrD1dVGuQKBgGp2bbLphSvfKvGrI6pdTiJbdZWOc+W71QsI7gCrw1XMkWLlME/Y\nUpqoLr1vrjD51JFiP2cvR96jwNHO7Gbpvvy0I5znam5laHhxc/7p86HiLBYeKzK3\nZj4KPilDiZ1DubdNea+fZ5NMevNUFycCVciNTVQVLNYjQsIroZvxWADRAoGAD1kB\nRxKUxmLW2AEUOuOacBhawJ/okz450pc79xd4FBSsQ0T3Eez8PecumSjTEJ3FR84l\nOCU7O0NmLitTYSvzxX8dxRiMPXWJFg6Cu15EqIsr1bojUEKQYaZrjjYmIEhWfQ7P\neSS7BAkM2eamsM+IsQOUxk4FX15MFZXALUkPu7kCgYEAqV4XWHFeQYW6yyoNqkza\nD8GiutFwc3vfo6YtXMPmJcuprmpfZ9yRp6nXvkVfjmT8pM+tD9ZYHhTV7Fa8bZQ7\nT/6dXSk6oeSZ87XCHwicpkPkQSNN/Q+egeaJmYn8ysDLBuvfuKzZ+y0lgKMafJ39\n2u1QGapMrGZNZl3Oc9TNE48=\n-----END PRIVATE KEY-----\n",
+  "client_email": "rasppiaccount@aqueous-cortex-325303.iam.gserviceaccount.com",
+  "client_id": "108160218148095366608",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rasppiaccount%40aqueous-cortex-325303.iam.gserviceaccount.com"
+}
